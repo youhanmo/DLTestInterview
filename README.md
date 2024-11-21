@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/837066413.svg)](https://doi.org/10.5281/zenodo.14197934)
+
+
 # DLTestInterview
 This repo is for the paper of `Navigating the Testing of Evolving Deep Learning Systems: An Exploratory Interview Study`.
 
@@ -16,3 +19,5 @@ Description: This file is the invitation letter for recruiting participants, als
 4. `Interview Questions.pdf`
 Description: This is a PDF document containing the interview questions. During the interview, these questions serve as a guide to help the interviewer systematically collect the required information.
 
+## Future Work
+We will continue to bring more practical cases proposed by our industrial practitioner. If you're interested, please keep an eye on this repository!
